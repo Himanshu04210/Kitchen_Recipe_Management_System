@@ -1,4 +1,4 @@
-# Kitchen_System
+# Kitchen Recipe Management System
 
 ## Efficient Meal Planning and Recipe Management:
 
@@ -6,10 +6,15 @@
 
 <h3>An individual project completed by me in just one day span.</h3>
 
- Tech stack
+
+#### Tech stack
 <ul>
-<li>java</li>
-<li>mysql</li>
+  <li>java</li>
+  <li>mysql</li>
+  <li>Maven</li>
+  <li>Spring Boot</li>
+  <li>Hibernate</li>
+  <li>Spring Data Jpa</li>
 </ul>
 
 ### Modules
