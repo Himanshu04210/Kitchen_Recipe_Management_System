@@ -2,9 +2,9 @@
 
 ## Efficient Meal Planning and Recipe Management:
 
-<p>Smart kitchen systems provide interactive screens or mobile apps for easy access to a vast collection of recipes, personalized recommendations, and generating shopping lists. They simplify meal planning and recipe management, making it effortless to explore new dishes and stay organized.
-</p>
-#### An individual project completed by me in 1 working days.
+<p>Smart kitchen systems provide interactive screens or mobile apps for easy access to a vast collection of recipes, personalized recommendations, and generating shopping lists. They simplify meal planning and recipe management, making it effortless to explore new dishes and stay organized.</p>
+
+<h3>An individual project completed by me in just one day span.</h3>
 
  Tech stack
 <ul>
@@ -33,3 +33,4 @@
   </li>
 </ul>
 
+<h2>Thank You</h2>
